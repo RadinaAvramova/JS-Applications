@@ -1,21 +1,17 @@
 # JS Applications
 
-За курса:
+In the JS Applications course, students will learn what HTTP requests are and how to use them. They will learn about REST Services, what a Baas (backend as a service) is and how to work with it, what asynchronous code means (Promises, using async/await), what Templating and Routing are. During the course they will create Single Page Application using the techniques learned in previous lectures, which will be assessed. They will understand the architecture of an application and how to properly structure their applications. Towards the end of the course they will look at different design patterns and their practical direction, create their own web components using the Web Components standard and build a Wepback environment from scratch.
 
-В курса "JS Applications" изучавах какво сa HTTP заявки и как да ги използвам. Запознах се с REST Services, какво представлява един Baas (backend as a service) и как да работя с него, какво означава асинхронен код (Promises, използване на async/await), какво представлява Templating и Routing. По време на курса създадох Single Page Application, ползвайки научените техники от предни лекции, на който бях оценена. Разбрах каква е архитектурата на едно приложение и как да структурирам правилно апликациите ми. Към края на курса разгледах различни шаблони за дизайн и тяхната практическа насока, създадох собствени уеб компоненти, ползвайки Web Components стандарта и издигнах една Wepback среда от нулата.
+Acquired skills : 
 
-Умения, които придобих:
+  - What HTTP is and how to make requests
 
--Какво е HTTP и как да правя заявки
+  - Creating Simple Single Page Applications
 
--Създаване на прости Single Page приложения
+  - Working with templates and routing
 
--Работа с шаблони и рутиране
+  - Working with non-relational databases
 
--Работа с нерелационни бази данни
+  - Working with REST APIs and asynchronous programming
 
--Работа с REST API и асинхронно програмиране
-
--Тестване на апликацията
-
-Преподаватели: Виктор Казаков и Петър Иванов
+  - Application testing
